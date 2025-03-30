@@ -36,6 +36,11 @@ Passionate about transforming raw data into meaningful insights. I leverage my a
 ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/excel-icon.png" height="40"/>
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/powerbi-icon.png" height="40"/>
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/mysql-icon.png" height="40"/>
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/python-icon.png" height="40"/>
+
 
 
 
