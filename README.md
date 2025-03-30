@@ -36,10 +36,12 @@ Passionate about transforming raw data into meaningful insights. I leverage my a
 ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/excel-icon.png" height="40"/>
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/powerbi-icon.png" height="40"/>
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/mysql-icon.png" height="40"/>
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/python-icon.png" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_BI_logo.svg/1200px-Power_BI_logo.svg.png" alt="Power BI" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50"/>
+</p>
 
 
 
