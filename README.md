@@ -40,7 +40,7 @@ Passionate about transforming raw data into meaningful insights. I leverage my a
 
 ## 📫 Connect With Me
 🔗 [LinkedIn](https://www.linkedin.com/in/anusha-talari-274962281/)  
-📧 anushatalari@example.com  
+📧 anusha.talari33@gmail.com  
 💻 [Portfolio](#) *(Coming Soon!)*  
 
 
