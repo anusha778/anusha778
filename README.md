@@ -35,10 +35,11 @@ Passionate about transforming raw data into meaningful insights. I leverage my a
 ### 📜 Other Skills
 ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ <img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=microsoft-excel&logoColor=217346" height="40"/>
+<img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=power-bi&logoColor=F2C811" height="40"/>
+<img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1" height="40"/>
+<img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" height="40"/>
+
 
 
 
