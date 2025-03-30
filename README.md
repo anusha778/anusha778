@@ -39,9 +39,10 @@ Passionate about transforming raw data into meaningful insights. I leverage my a
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Power_BI_logo.svg/1200px-Power_BI_logo.svg.png" alt="Power BI" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50"/>
+  <img src="https://www.svgrepo.com/show/353905/power-bi.svg" alt="Power BI" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50"/>
 </p>
+
 
 
 
