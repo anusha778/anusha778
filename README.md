@@ -32,16 +32,17 @@ Passionate about transforming raw data into meaningful insights. I leverage my a
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
 
 
-
-## 📫 Connect With Me
-🔗 [LinkedIn](https://www.linkedin.com/in/anusha-talari/)  
-📧 anushatalari@example.com  
-💻 [Portfolio](#) *(Coming Soon!)*  
-
-![Footer](https://source.unsplash.com/1600x200/?data,analytics)
-
-
 ### 📜 Other Skills
 ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+
+
+
+## 📫 Connect With Me
+🔗 [LinkedIn](https://www.linkedin.com/in/anusha-talari-274962281/)  
+📧 anushatalari@example.com  
+💻 [Portfolio](#) *(Coming Soon!)*  
+
+
+
 
