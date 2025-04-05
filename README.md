@@ -2,7 +2,6 @@
 
 
 
-![Header](https://source.unsplash.com/1600x400/?technology,data)
 
 # 👋 Hi, I'm Anusha Talari!  
 🚀 **Data Analyst** | 📊 MySQL | 📈 Power BI | 📊 Tableau | 🐍 Python | 🏆 Advanced Excel  
@@ -36,12 +35,7 @@ Passionate about transforming raw data into meaningful insights. I leverage my a
 ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
-  <img src="https://www.svgrepo.com/show/353905/power-bi.svg" alt="Power BI" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50"/>
-</p>
+
 
 
 
